@@ -1,0 +1,8 @@
+format: 1
+title: Good night message
+type: feature
+created: 2026-11-22
+author: dev-1
+
+git:
+  branch: feat/add-good-night
