@@ -1,0 +1,11 @@
+format: 1
+title: Welcome back message
+type: feature
+created: 2026-11-22
+author: dev-1
+
+review:
+  proposal: 2
+
+git:
+  branch: feat/add-welcome-back
