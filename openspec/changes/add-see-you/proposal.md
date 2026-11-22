@@ -2,7 +2,7 @@
 
 ## Why
 
-Check Werkit on a real GitHub repository: see you message.
+Check Werkit on a real GitHub repository: see you message, edited.
 
 ## What Changes
 
