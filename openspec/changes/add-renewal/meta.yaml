@@ -4,5 +4,8 @@ type: feature
 created: 2026-11-23
 author: dev-1
 
+review:
+  proposal: 6
+
 git:
   branch: feat/add-renewal
