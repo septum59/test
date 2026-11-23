@@ -1,0 +1,8 @@
+format: 1
+title: Renewal message
+type: feature
+created: 2026-11-23
+author: dev-1
+
+git:
+  branch: feat/add-renewal
